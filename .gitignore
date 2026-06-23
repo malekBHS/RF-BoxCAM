@@ -1,0 +1,16 @@
+# Ignore deep learning weights
+*.pt
+*.pth
+*.weights
+
+# Ignore python clutter
+__pycache__/
+*.py[cod]
+
+# Ignore local environment folders
+.venv/
+venv/
+env/
+
+# Ignore local output images so you don't push test results
+output.jpg
