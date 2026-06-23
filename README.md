@@ -20,6 +20,6 @@ Existing XAI techniques often fail when applied to modern multi-scale object det
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/malekBHS/RF-BoxCAM.git](https://github.com/malekBHS/RF-BoxCAM.git)
+git clone https://github.com/malekBHS/RF-BoxCAM.git
 cd RF-BoxCAM
 pip install -r requirements.txt
